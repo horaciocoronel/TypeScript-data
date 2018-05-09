@@ -1,0 +1,34 @@
+var myString;
+var myNum;
+var myBool;
+var myVar;
+myString = 'Hello world';
+myNum = 223;
+myBool = true;
+myVar = 'any';
+console.log(myString);
+console.log(myNum);
+console.log(myBool);
+// Arrays
+// let strArray: string[];
+// let numArray: number[];
+// let boolArr: boolean[];
+// another way to define arrays
+var strArray;
+var numArray;
+var boolArr;
+var strNumTuple;
+strArray = ['one', 'two', 'three'];
+numArray = [1, 2, 3];
+boolArr = [true, false, false, true];
+strNumTuple = ['Hello', 4];
+console.log(strArray);
+console.log(numArray);
+console.log(boolArr);
+console.log(strNumTuple);
+var myVoid = undefined;
+var myNull = null;
+var myUndefined = null;
+console.log(myVoid);
+console.log(myNull);
+console.log(myUndefined);
